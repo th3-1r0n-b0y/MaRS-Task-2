@@ -1,5 +1,6 @@
 # MaRS-Task-2
 
+The task number drawn was number 2.
 Problem Statement: Control a two wheel drive mechanism using W, A, S, D keys.
 
 First, i knew i how to use the serial monitor by learning from previous tasks. Now i had to think of a way to turn wheels left and right. Then i had the idea of stopping or reducing the speed of one of the wheels which can lead to turning left or right.
